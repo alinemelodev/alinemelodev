@@ -12,4 +12,4 @@ Atualmente estou aprendendo Node.JS, Express, PostgreSQL, Next e React Native.
 
 Vem me dar um Oi 👋
 - Linkedin: https://linkedin.com/in/aline-carvalho-dev/ 
-- Portifólio: https://portifolio-alinecarvalhopro.vercel.app/
+- Portifólio: https://portfolio-alinecarvalhopro.vercel.app/
