@@ -1,15 +1,16 @@
 ### Olá! Eu sou a Aline :)
 
-Desenvolvedora Front-End
+Desenvolvedora Front-End React <br/>
 Estudando para aprimorar minhas habilidades e aprender novas tecnologias
 
-Tenho habilidade em HTML, CSS, JavaScript, TypeScript e React.
-Além disso, tenho familiaridade com consumo de APIs (para interação com Back-End), consumo de bibliotecas (Styled-Components, React-Hook-Forms, React-Router, Zod, entre outras), responsividade (Mobile-first), Github e boas práticas na programação.
-E noções de UX/UI, Figma e metodologias ágeis (Scrum e Kanban).
-
+Tenho habilidade em HTML, CSS, JavaScript, TypeScript e React. <br/>
+Além disso, tenho familiaridade com consumo de APIs (para interação com Back-End), consumo de bibliotecas como Styled-Components, React-Hook-Forms, React-Router, Zod, entre outras, componentização, Hooks, States, Context, Modais e responsividade (Mobile-first). <br/>
+Prezo pelas boas práticas de desenvolvimento e tenho habilidade em versionamento de código com Github. <br/>
+E noções de UX/UI, Figma e metodologias ágeis (Scrum e Kanban). <br/>
 Atualmente estou aprendendo Node.JS, Express, PostgreSQL, Next e React Native.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhopro&layout=compact)
 
 Vem me dar um Oi 👋
 - Linkedin: https://linkedin.com/in/aline-carvalho-dev/ 
-- Portifólio: https://portfolio-alinecarvalhopro.vercel.app/
+- Portfólio: https://portfolio-alinecarvalhopro.vercel.app/
