@@ -11,6 +11,5 @@ Atualmente estou aprendendo Node.JS, Express, PostgreSQL, Next e React Native.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhopro&layout=compact)
 
-Vem me dar um Oi 👋
 - LinkedIn: https://linkedin.com/in/aline-carvalho-dev/ 
 - Portfólio: https://portfolio-alinecarvalhopro.vercel.app/
