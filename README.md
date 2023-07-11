@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Aline :)
 
-Desenvolvedora Front-End React <br/>
+Desenvolvedora Front-End <br/>
 Estudando para aprimorar minhas habilidades e aprender novas tecnologias
 
 Tenho habilidade em HTML, CSS, JavaScript, TypeScript e React. <br/>
