@@ -4,10 +4,12 @@ Desenvolvedora Front-End <br/>
 Estudando para aprimorar minhas habilidades e aprender novas tecnologias
 
 Tenho habilidade em HTML, CSS, JavaScript, TypeScript e React. <br/>
-Além disso, tenho familiaridade com consumo de APIs (para interação com Back-End), consumo de bibliotecas como Styled-Components, React-Hook-Forms, React-Router, Zod, entre outras, componentização, Hooks, States, Context, Modais e responsividade (Mobile-first). <br/>
+Familiaridade com consumo de APIs (para interação com Back-End), consumo de bibliotecas como Styled-Components, React-Hook-Forms, React-Router, Zod, entre outras. Componentização, Hooks, States, Context, Modais e responsividade (Mobile-first). <br/>
+Habilidade em UX, UI Design e Figma. <br/>
 Prezo pelas boas práticas de desenvolvimento e tenho habilidade em versionamento de código com Github. <br/>
-Conhecimentos em UX, UI e Figma. Metodologias ágeis (Scrum e Kanban). <br/>
-Atualmente estou aprendendo Node.JS, Express, PostgreSQL, Next e React Native.
+Conhecimento em Node.js, Express, PostgreSQL e ORM. <br/>
+Metodologias ágeis (Scrum e Kanban). <br/>
+Atualmente estou aprendendo Python, Next e React Native.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhopro&layout=compact)
 
