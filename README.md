@@ -9,7 +9,7 @@ Habilidade em UX, UI Design e Figma. <br/>
 Prezo pelas boas práticas de desenvolvimento e tenho habilidade em versionamento de código com Github. <br/>
 Conhecimento em Node.js, Express, PostgreSQL e ORM. <br/>
 Metodologias ágeis (Scrum e Kanban). <br/>
-Atualmente estou aprendendo Python, Next e React Native.
+Atualmente estou aprendendo Python, Django, Next e React Native.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhopro&layout=compact)
 
