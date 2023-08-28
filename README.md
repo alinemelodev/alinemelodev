@@ -10,6 +10,7 @@ Habilidade em UX, UI Design e Figma. <br/>
 Prezo pelas boas práticas de desenvolvimento e tenho habilidade em versionamento de código com Github. <br/>
 Metodologias ágeis (Scrum e Kanban). <br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhopro&layout=compact)
 
 - LinkedIn: https://linkedin.com/in/aline-carvalho-dev/ 
 - Portfólio: https://portfolio-alinecarvalhopro.vercel.app/
