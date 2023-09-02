@@ -14,7 +14,7 @@ Metodologias ágeis (Scrum e Kanban). <br/>
 
 - LinkedIn: https://linkedin.com/in/aline-carvalho-dev/ 
 - Portfólio: https://portfolio-alinecarvalhopro.vercel.app/
-- App no Google Play: https://play.google.com/store/apps/developer?id=Amie+Apps
+- App publicado no Google Play: https://play.google.com/store/apps/developer?id=Amie+Apps
 
 
 ### Visite meus principais projetos aqui ⬇️
