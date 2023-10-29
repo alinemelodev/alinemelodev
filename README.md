@@ -2,6 +2,7 @@
 
 Desenvolvedora Front End Web e Mobile <br/>
 Estudando para aprimorar minhas habilidades e aprender novas tecnologias
+Atualmente estou cursando o primeiro semestre de Graduação em Desenvolvimento Mobile. 
 
 Tenho habilidade em HTML, CSS, JavaScript, TypeScript e React. <br/>
 Desenvolvimento mobile com React Native. <br/>
@@ -10,6 +11,7 @@ Habilidade em UX, UI Design e Figma. <br/>
 Noções em Next JS, Node JS, Express, PostgreSQL e TypeORM. <br/>
 Prezo pelas boas práticas de desenvolvimento e tenho habilidade em versionamento de código com Github. <br/>
 Metodologias ágeis (Scrum e Kanban). <br/>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhopro&layout=compact)
 
