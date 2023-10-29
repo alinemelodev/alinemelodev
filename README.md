@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Aline :)
 
 Desenvolvedora Front End Web e Mobile <br/>
-Estudando para aprimorar minhas habilidades e aprender novas tecnologias
+Estudando para aprimorar minhas habilidades e aprender novas tecnologias. <br/>
 Atualmente estou cursando o primeiro semestre de Graduação em Desenvolvimento Mobile. 
 
 Tenho habilidade em HTML, CSS, JavaScript, TypeScript e React. <br/>
