@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Aline :)
 
-Desenvolvedora Front End Web e Mobile <br/>
+Desenvolvedora Fullstack Web e Mobile <br/>
 Estudando para aprimorar minhas habilidades e aprender novas tecnologias. <br/>
 Atualmente estou cursando o primeiro semestre de Graduação em Desenvolvimento Mobile. 
 
