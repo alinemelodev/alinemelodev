@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Aline :)
 
-Desenvolvedora Front-end Mobile | TypeScript | React Native | Node | UX/UI Design <br/>
+Desenvolvedora Mobile | TypeScript | React Native | Node | UX/UI Designer <br/>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhopro&layout=compact)
