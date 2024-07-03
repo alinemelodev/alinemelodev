@@ -10,4 +10,4 @@ Desenvolvedora Mobile | TypeScript | React Native | UX/UI Designer <br/>
 - Meus Apps publicados no Google Play: https://play.google.com/store/apps/developer?id=Amie+Apps
 
 
-### Visite meus principais projetos aqui ⬇️
+### Visite meus principais projetos pessoais aqui ⬇️
