@@ -15,7 +15,7 @@ Também tenho experiência no desenvolvimento web utilizando React.js e Next.js.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhopro&layout=compact)
 
-- LinkedIn: https://linkedin.com/in/aline-carvalho-dev/ 
+- LinkedIn: https://linkedin.com/in/aline-melo-dev/ 
 - Visite meu Portfólio: https://portfolio-alinecarvalhopro.vercel.app/
 - Baixe meu mais novo App na Google Play: [https://play.google.com/store/apps/developer?id=Amie+Apps](https://play.google.com/store/apps/details?id=com.eleveamieapps)
 
