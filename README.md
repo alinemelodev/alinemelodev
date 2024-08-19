@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Aline :)
 
-Desenvolvedora Mobile | TypeScript | React Native | UX/UI Designer <br/>
+Desenvolvedora Mobile e Web | TypeScript | React Native | React | UX/UI Designer <br/>
 
 Tenho experiência com o desenvolvimento de aplicativos mobile, utilizando a tecnologia React Native, tanto com CLI quanto com EXPO, desenvolvendo a aplicação da forma mais fiel possível ao protótipo “pixel perfect”.
 
