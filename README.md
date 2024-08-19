@@ -13,7 +13,7 @@ Além disso, já tive a experiência gerando AAB e APK de aplicativos e em deplo
 Também tenho experiência no desenvolvimento web utilizando React.js e Next.js.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecarvalhopro&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinemelodev&layout=compact)
 
 - LinkedIn: https://alinedev.com.br/
 - Visite meu Portfólio: https://alinedev.com.br/
