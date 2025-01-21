@@ -1,16 +1,25 @@
 ### Olá! Eu sou a Aline :)
 
-Desenvolvedora Mobile e Web | TypeScript | React Native | React | UX/UI Designer <br/>
+Desenvolvedora Mobile apaixonada por criar soluções inovadoras e eficientes.
 
-Tenho experiência com o desenvolvimento de aplicativos mobile, utilizando a tecnologia React Native, tanto com CLI quanto com EXPO, desenvolvendo a aplicação da forma mais fiel possível ao protótipo “pixel perfect”.
+Tenho experiência sólida no desenvolvimento de aplicativos mobile com React Native, tanto com CLI quanto com EXPO, sempre com foco em criar aplicações pixel perfect. Atualmente, estou expandindo meus conhecimentos para Flutter.
 
-Amplo conhecimento em CSS e estilização com as bibliotecas, como Tailwind, Styled Components e Sass.
+Além disso, tenho um bom domínio de integração de APIs e do uso de React Hooks, criando soluções escaláveis e baseadas em componentes. Tenho experiência em gerar AAB e APK, além de deploy e publicação na Google Play.
 
-Integração e consumo com APIs. Utilização de React Hooks e de bibliotecas para as mais diversas funcionalidades. Desenvolvimento baseado em componentes.
+Minha base em UX/UI Design me proporciona uma visão estratégica para criar interfaces intuitivas, centradas no usuário, sempre buscando oferecer uma experiência visual agradável e funcional. Tenho conhecimento em ferramentas como Figma, além de técnicas de prototipagem e wireframing.
 
-Além disso, já tive a experiência gerando AAB e APK de aplicativos e em deploy / publicação na Google Play.
+Principais tecnologias:
 
-Também tenho experiência no desenvolvimento web utilizando React.js e Next.js.
+React Native (CLI, EXPO) e Flutter
+React.js (web)
+Integração/Consumo de APIs | Firebase
+Tailwind | Styled Components | Sass
+Responsividade | Mobile First
+UX/UI Design | Figma
+HTML | CSS | JavaScript | TypeScript
+Deploy/ Publicação/ Atualização na Google Play | APK | AAB
+
+"Sua tarefa é descobrir o seu trabalho e, então, com todo o coração, dedicar-se a ele." <cite>Buda</cite>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinemelodev&layout=compact)
