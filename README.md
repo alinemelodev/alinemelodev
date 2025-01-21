@@ -4,7 +4,7 @@ Desenvolvedora Mobile apaixonada por criar soluções inovadoras e eficientes.
 
 Tenho experiência sólida no desenvolvimento de aplicativos mobile com React Native, tanto com CLI quanto com EXPO, sempre com foco em criar aplicações pixel perfect. Atualmente, estou expandindo meus conhecimentos para Flutter.
 
-Além disso, tenho um bom domínio de integração de APIs e do uso de React Hooks, criando soluções escaláveis e baseadas em componentes. Tenho experiência em gerar AAB e APK, além de deploy e publicação na Google Play.
+Além disso, tenho um bom domínio de integração de APIs e do uso de React Hooks, criando soluções escaláveis e baseadas em componentes. Tenho experiência em gerar AAB e APK, além de deploy e publicação na Google Play. Também tenho aplicativos publicados na Google Play, sendo que um deles já alcançou quase 2.000 downloads.
 
 Minha base em UX/UI Design me proporciona uma visão estratégica para criar interfaces intuitivas, centradas no usuário, sempre buscando oferecer uma experiência visual agradável e funcional. Tenho conhecimento em ferramentas como Figma, além de técnicas de prototipagem e wireframing.
 
