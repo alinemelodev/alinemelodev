@@ -19,8 +19,6 @@ UX/UI Design | Figma
 HTML | CSS | JavaScript | TypeScript
 Deploy/ Publicação/ Atualização na Google Play | APK | AAB
 
-"Sua tarefa é descobrir o seu trabalho e, então, com todo o coração, dedicar-se a ele." <cite>Buda</cite>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinemelodev&layout=compact)
 
